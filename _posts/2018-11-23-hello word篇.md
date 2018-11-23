@@ -4,7 +4,7 @@ title:      第一篇博文「hello word」
 subtitle:   hello word博文
 date:       2018-11-23
 author:     Dawu
-header-img: img/post-bg-BJJ.jpg
+header-img: img/post-bg-hello_word.jpg
 catalog: true
 tags:
     - hello word
